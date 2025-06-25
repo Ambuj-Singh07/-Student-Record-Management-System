@@ -24,6 +24,15 @@ A simple command-line based Java application to manage student records with basi
 - 🚪 Exit the application
 
 ---
+# output
 
-## 📂 Project Structure
+====== Student Record Management System ======
+1. Add Student
+2. View All Students
+3. Search Student by Roll No
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice:
+
 
